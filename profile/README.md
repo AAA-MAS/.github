@@ -15,6 +15,7 @@ Business Analysts:
 - Mutiara
 - Rine
 - Silvi
+  
 Frontend Developers:
 
 - Fendry
