@@ -7,17 +7,23 @@ Getting Started
 
 Team
 Product Owner: Santoso (Owner)
+
 IT Manager: Aang
+
 Business Analysts: 
+
 - Mutiara
 - Rine
 - Silvi
 Frontend Developers:
+
 - Fendry
 - Alex
 - Jason
 - Jonatan
+
 Backend Developers:
+
 - Hafid
 - Endar
 - Natan
